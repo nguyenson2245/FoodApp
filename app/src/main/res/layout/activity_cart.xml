@@ -199,7 +199,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:background="@color/black"
-            android:backgroundTint="#AAECD7"
+            android:backgroundTint="#FFFFFF"
             app:fabCradleMargin="8dp"
             app:fabCradleRoundedCornerRadius="50dp"
             app:fabCradleVerticalOffset="6dp">

@@ -39,7 +39,6 @@ public class Database extends SQLiteOpenHelper {
         db.execSQL(SQLquery);
         db.execSQL(SQLquery2);
         db.execSQL(SQLquery3);
-
     }
 
     @Override

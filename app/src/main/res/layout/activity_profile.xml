@@ -11,7 +11,7 @@
         android:layout_height="match_parent">
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/imgprofile"
-            android:src="@drawable/profile"
+            android:src="@drawable/avata"
             android:layout_gravity="center"
             android:layout_marginTop="100dp"
             android:layout_width="190dp"
@@ -22,7 +22,7 @@
             android:textStyle="bold"
             android:layout_marginTop="30dp"
             android:layout_gravity="center"
-            android:text="Vũ Văn Quý"
+            android:text="Nguyễn Đức Sơn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
         <LinearLayout
@@ -51,7 +51,7 @@
                 <TextView
                     android:id="@+id/txtusername"
                     android:textSize="15dp"
-                    android:text="Vũ văn Quý"
+                    android:text="Nguyễn Đức Sơn"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
             </LinearLayout>
@@ -81,7 +81,7 @@
                     android:layout_height="wrap_content"/>
                 <TextView
                     android:textSize="15dp"
-                    android:text="vuvanquy@gamil.com"
+                    android:text="nguyenducson224125@gamil.com"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
             </LinearLayout>
@@ -151,7 +151,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:background="@color/black"
-                    android:backgroundTint="#AAECD7"
+                    android:backgroundTint="#FFFFFF"
                     app:fabCradleMargin="8dp"
                     app:fabCradleRoundedCornerRadius="50dp"
                     app:fabCradleVerticalOffset="6dp">

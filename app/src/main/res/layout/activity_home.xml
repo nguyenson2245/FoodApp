@@ -35,7 +35,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Hello people"
-                        android:textColor="#49AE99"
+                        android:textColor="#2A6078"
                         android:textSize="18dp"
                         android:textStyle="bold" />
 
@@ -45,7 +45,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:text="Seach and order"
-                        android:textColor="#ff0"
+                        android:textColor="#0B242C"
                         android:textSize="18dp"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -56,7 +56,7 @@
                     android:layout_alignParentEnd="true"
                     android:layout_centerInParent="true"
                     android:layout_marginEnd="30dp"
-                    android:src="@drawable/profile" />
+                    android:src="@drawable/avata" />
             </RelativeLayout>
 
             <RelativeLayout
@@ -169,7 +169,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:background="@color/black"
-            android:backgroundTint="#AAECD7"
+            android:backgroundTint="#FFFFFF"
             app:fabCradleMargin="8dp"
             app:fabCradleRoundedCornerRadius="50dp"
             app:fabCradleVerticalOffset="6dp">

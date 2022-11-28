@@ -88,6 +88,7 @@ public class HomeActivity extends AppCompatActivity {
         categoryDomains.add(new CategoryDomain("Hotdog","cat_3"));
         categoryDomains.add(new CategoryDomain("Drink","cat_4"));
         categoryDomains.add(new CategoryDomain("Donut","cat_5"));
+        categoryDomains.add(new CategoryDomain("Pizumi","cat_2"));
         categoryAdapter = new CategoryAdapter(categoryDomains);
         recyclerViewCategory.setAdapter(categoryAdapter);
 
